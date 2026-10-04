@@ -1,5 +1,5 @@
 # -- WE use the following table FOR GROUP BY EXAMPLE:
--- Here is the formatted table based on your data| Order ID | Customer ID | Store Region | Category | Total Amount | Order Date |
+-- | Order ID | Customer ID | Store Region | Category | Total Amount | Order Date |
 -- | --- | --- | --- | --- | --- | --- |
 -- | 1 | C101 | South | Electronics | 1200 | 2026-01-10 |
 -- | 2 | C102 | North | Apparel | 150 | 2026-01-12 |

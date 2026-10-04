@@ -1,4 +1,4 @@
-# -- WE use the following table FOR GROUP BY EXAMPLE:
+# -- WE use the following  ORDERS table AS REFERENCE FOR GROUP BY EXAMPLE:
 -- | Order ID | Customer ID | Store Region | Category | Total Amount | Order Date |
 -- | --- | --- | --- | --- | --- | --- |
 -- | 1 | C101 | South | Electronics | 1200 | 2026-01-10 |

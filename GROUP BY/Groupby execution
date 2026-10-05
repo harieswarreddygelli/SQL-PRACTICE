@@ -1,0 +1,8 @@
+HOW SQL EXECUTES GROUPBY
+1. FROM       ──> Identifies target table(s)
+2. WHERE      ──> Filters out raw rows
+3. GROUP BY   ──> Organizes remaining rows into groups
+4. HAVING     ──> Filters out entire groups
+5. SELECT     ──> Computes aggregates & returns selected columns
+6. ORDER BY   ──> Sorts final output
+7. LIMIT      ──> Restricts output row count
